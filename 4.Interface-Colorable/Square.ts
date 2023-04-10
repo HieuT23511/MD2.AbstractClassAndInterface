@@ -8,6 +8,6 @@ export class Square extends Rectangle implements Colorable{
     }
 
     howToColor() {
-        console.log(`Color all four sides...`);
+        console.log(`Color all four sides..`)
     }
 }
